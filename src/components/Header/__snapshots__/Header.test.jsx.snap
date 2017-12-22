@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`header Component Test should match latest snapshot 1`] = `
+<div
+  className={undefined}
+>
+  Assessment
+</div>
+`;

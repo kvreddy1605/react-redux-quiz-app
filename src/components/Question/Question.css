@@ -1,0 +1,10 @@
+.Question{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-size: 20px;
+    background-color:  #005960;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    padding: 0px 10px;
+}

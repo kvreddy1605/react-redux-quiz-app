@@ -1,0 +1,19 @@
+.Option{
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+    margin:10px 20%;
+    border-radius: 10px; 
+    background-color: #9896A4;
+    font-weight: bold;
+}
+
+.OptionSelected{
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #00ff00;
+    font-weight: bold;
+    margin:0 20%;
+    border-radius: 10px; 
+}
